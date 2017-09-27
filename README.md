@@ -1,4 +1,4 @@
-####This is dense_flow(yjxiong) for opencv-3.1.
+#### This is dense_flow(yjxiong) for opencv-3.1.
 
 
 Extracting dense flow field given a video.
@@ -7,8 +7,6 @@ Extracting dense flow field given a video.
 - LibZip: 
 to install on ubuntu ```apt-get install libzip-dev``` on mac ```brew install libzip```
 
-#### For OpenCV 3 Users
-Please see the [opencv-3.1](https://github.com/yjxiong/dense_flow/tree/opencv-3.1) branch. Many thanks to @victorhcm for the contributions!
 
 ### Install
 ```
