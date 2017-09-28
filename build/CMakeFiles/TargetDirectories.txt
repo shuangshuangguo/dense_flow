@@ -1,7 +1,0 @@
-/home/gss/dense_flow/build/CMakeFiles/pydenseflow.dir
-/home/gss/dense_flow/build/CMakeFiles/extract_gpu.dir
-/home/gss/dense_flow/build/CMakeFiles/edit_cache.dir
-/home/gss/dense_flow/build/CMakeFiles/denseflow.dir
-/home/gss/dense_flow/build/CMakeFiles/extract_cpu.dir
-/home/gss/dense_flow/build/CMakeFiles/extract_warp_gpu.dir
-/home/gss/dense_flow/build/CMakeFiles/rebuild_cache.dir
