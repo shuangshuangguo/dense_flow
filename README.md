@@ -1,7 +1,4 @@
-### This is dense_flow(yjxiong) for opencv-3.1.
-
-~~~~~~~~~~~~
-https://github.com/yjxiong/dense_flow
+### This is dense_flow(yjxiong) project for opencv-3.1. https://github.com/yjxiong/dense_flow
 
 Extracting dense flow field given a video.
 
@@ -38,12 +35,4 @@ The warp optical flow is used in the following paper
                Xiaoou Tang and
                Luc {Van Gool}},
   title     = {Temporal Segment Networks: Towards Good Practices for Deep Action Recognition},
-  booktitle   = {ECCV},
-  year      = {2016},
-}
-```
-
-To extract warp flow, use the command
-```
-./extract_warp_gpu -f test.avi -x tmp/flow_x -y tmp/flow_y -i tmp/image -b 20 -t 1 -d 0 -s 1 -o dir
 ```
